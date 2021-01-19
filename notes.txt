@@ -1,0 +1,6 @@
+Every day stuff:
+
+nodemon-runs code
+Ctrl + C- quits the server
+rs- for restarting
+
